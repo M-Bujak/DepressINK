@@ -8,4 +8,4 @@ As the player progresses, they will witness a striking contrast between the past
 
 ------
 
-The project was written in C# using the Unity Engine. The goal of this repository is to demonstrate my programming skills, hence it only contains its scripts. The game is available to download for PC from [itch.io](https://itch.io/jam/mc-vr-hackathon/rate/1963304).
+The project was written in C# using the Unity Engine. The goal of this repository is to demonstrate my programming skills, hence it only contains its scripts and only the ones to which I contributed. The game's first version is available to download for PC from [itch.io](https://itch.io/jam/mc-vr-hackathon/rate/1963304).
