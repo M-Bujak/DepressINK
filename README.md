@@ -8,6 +8,9 @@ In DepressINK, players begin their journey in a world that is bleak, sad, and co
 
 As the player progresses, they will witness a striking contrast between the past and present as they bring vibrancy and joy to a once depressing neighborhood.
 
+![image](https://user-images.githubusercontent.com/62397807/233200987-799e87c6-2990-493a-b3d7-7b768658f0b5.png)
+
+
 ------
 
 The project was written in C# using the Unity Engine. The goal of this repository is to demonstrate my programming skills, hence it only contains its scripts and only the ones to which I contributed. The game's first version is available to download for PC from [itch.io](https://itch.io/jam/mc-vr-hackathon/rate/1963304).
