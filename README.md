@@ -1,6 +1,6 @@
 ![DepressINK_Logo](https://user-images.githubusercontent.com/62397807/226465556-c98e3883-2474-492f-b30e-dd2df825089f.png)
 
-DepressINK is the winning entry of the Metaverse Creators 2023 Hackathon organized by DimensionX. It was developed by Mateusz Bujak and Szymon Białek. The competition's aim was to develop a VR application that fits any interpretation of the theme "contrast and control". 
+DepressINK is the winning entry of the Metaverse Creators 2023 Hackathon organized by Dimension X. It was developed by Mateusz Bujak and Szymon Białek. The competition's aim was to develop a VR application that fits any interpretation of the theme "contrast and control". 
 
 ------
 
